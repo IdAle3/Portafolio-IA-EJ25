@@ -1,1 +1,1 @@
-# IA_2132987
+Idalia Alejandra Delgado Moreno 2132987 Inteligencia artificial

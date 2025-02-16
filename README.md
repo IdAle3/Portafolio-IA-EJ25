@@ -34,7 +34,7 @@ _(No hay actividades registradas)_
 ### Semana 4:
 #### Actividades:
 1. [Lab Matrices Sem 4](https://github.com/IdAle3/Portafolio-IA-EJ25/blob/main/Actividades%20Enero-Febrero/Actividades/LabMatricesSem4.pdf)  
-2. _(Pendiente)_  
+2. [Link del Repo](https://github.com/IdAle3/Portafolio-IA-EJ25/blob/main/Actividades%20Enero-Febrero/Actividades/Link%20del%20repo2.pdf) 
 
 #### Certificados:
 1. [Pandas Cert](https://github.com/IdAle3/Portafolio-IA-EJ25/blob/main/Actividades%20Enero-Febrero/Certificados%20de%20Kaggle/Pandas%20Cert.pdf)  
